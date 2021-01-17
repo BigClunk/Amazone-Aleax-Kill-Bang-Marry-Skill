@@ -1,0 +1,180 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-CA": {
+          "summary": "The classic childhood game of kill bang marry has come to alexa.",
+          "examplePhrases": [
+            "Alexa open kill bang marry"
+          ],
+          "keywords": [
+            "Game",
+            "kill",
+            "bang",
+            "marry",
+            "fun",
+            "easy",
+            "party",
+            "friends",
+            "with",
+            "funny",
+            "classic",
+            "kids",
+            "children\u0027s",
+            "game",
+            "laugh"
+          ],
+          "name": "Kill Bang Marry Game",
+          "description": "There are two parts to this skill. One where you can give Alexa 3 names and she will choose who to kill, bang and marry. Part two is where you can choose from a variety of preset categories and Alexa will give you 3 names to play with.",
+          "smallIconUri": "file://assets/images/en-CA_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-CA_largeIconUri.png"
+        },
+        "en-US": {
+          "summary": "The classic childhood game of kill bang marry has come to alexa.",
+          "examplePhrases": [
+            "Alexa open kill bang marry"
+          ],
+          "keywords": [
+            "Game",
+            "kill",
+            "bang",
+            "marry",
+            "fun",
+            "easy",
+            "party",
+            "friends",
+            "with",
+            "funny",
+            "classic",
+            "kids",
+            "children\u0027s",
+            "game",
+            "laugh"
+          ],
+          "name": "Kill Bang Marry Game",
+          "description": "There are two parts to this skill. One where you can give Alexa 3 names and she will choose who to kill, bang and marry. Part two is where you can choose from a variety of preset categories and Alexa will give you 3 names to play with.",
+          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
+        },
+        "en-IN": {
+          "summary": "The classic childhood game of kill bang marry has come to alexa.",
+          "examplePhrases": [
+            "Alexa open kill bang marry"
+          ],
+          "keywords": [
+            "Game",
+            "kill",
+            "bang",
+            "marry",
+            "fun",
+            "easy",
+            "party",
+            "friends",
+            "with",
+            "funny",
+            "classic",
+            "kids",
+            "children\u0027s",
+            "game",
+            "laugh"
+          ],
+          "name": "Kill Bang Marry Game",
+          "description": "There are two parts to this skill. One where you can give Alexa 3 names and she will choose who to kill, bang and marry. Part two is where you can choose from a variety of preset categories and Alexa will give you 3 names to play with.",
+          "smallIconUri": "file://assets/images/en-IN_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-IN_largeIconUri.png"
+        },
+        "en-AU": {
+          "summary": "The classic childhood game of kill bang marry has come to alexa.",
+          "examplePhrases": [
+            "Alexa open kill bang marry"
+          ],
+          "keywords": [
+            "Game",
+            "kill",
+            "bang",
+            "marry",
+            "fun",
+            "easy",
+            "party",
+            "friends",
+            "with",
+            "funny",
+            "classic",
+            "kids",
+            "children\u0027s",
+            "game",
+            "laugh"
+          ],
+          "name": "Kill Bang Marry Game",
+          "description": "There are two parts to this skill. One where you can give Alexa 3 names and she will choose who to kill, bang and marry. Part two is where you can choose from a variety of preset categories and Alexa will give you 3 names to play with.",
+          "smallIconUri": "file://assets/images/en-AU_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-AU_largeIconUri.png"
+        },
+        "en-GB": {
+          "summary": "The classic childhood game of kill bang marry has come to alexa.",
+          "examplePhrases": [
+            "Alexa open kill bang marry"
+          ],
+          "keywords": [
+            "Game",
+            "kill",
+            "bang",
+            "marry",
+            "fun",
+            "easy",
+            "party",
+            "friends",
+            "with",
+            "funny",
+            "classic",
+            "kids",
+            "children\u0027s",
+            "game",
+            "laugh"
+          ],
+          "name": "Kill Bang Marry Game",
+          "description": "There are two parts to this skill. One where you can give Alexa 3 names and she will choose who to kill, bang and marry. Part two is where you can choose from a variety of preset categories and Alexa will give you 3 names to play with.",
+          "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "sourceLocaleForLanguages": [
+          {
+            "sourceLocale": "en-CA",
+            "language": "en"
+          }
+        ],
+        "isActive": true
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Alexa open kill bang marry\nchoose option one or option 2\nif chosen option 2 then choose a category",
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionMode": "PUBLIC",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:649732221202:function:c4b7e7ff-178e-4926-ba3c-6362b8b8ebe7:Release_0"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-CA": {},
+        "en-US": {},
+        "en-IN": {},
+        "en-AU": {},
+        "en-GB": {}
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
